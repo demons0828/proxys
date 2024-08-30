@@ -3,12 +3,14 @@ import threading
 import requests
 import time
 from czdb查询.find_ip import find_map
+
 def get_myip():
     response = requests.get('http://httpbin.org/ip')
     if response.status_code == 200:
         return response.json()['origin']
     else:
         return None
+
 MYIP = get_myip()
 # 数据库文件路径
 db_path = r'C:\Users\Administrator\Desktop\工作\ip\proxies.db'
@@ -101,26 +103,65 @@ def test_proxy(ip, port):
         anonymity = "未知"
         latency = None
         is_working = 0
+
     # 获取地址信息
     address_info = find_map(ip)
     if address_info is not None:
-        
         country = address_info.get('country', '未知')
         region = address_info.get('region', '未知')
         city = address_info.get('city', '未知')
         isp_domain = address_info.get('isp_domain', '未知')
+    else:
+        country = region = city = isp_domain = '未知'
 
     # 使用线程锁来更新数据库中的代理信息
     with lock:
-        conn = sqlite3.connect(db_path)
-        cursor = conn.cursor()
+        with sqlite3.connect(db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute('''
+                UPDATE proxies
+                SET anonymity = ?, latency = ?, is_working = ?, country = ?, region = ?, city = ?, isp_domain = ?
+                WHERE ip = ? AND port = ?
+            ''', (anonymity, latency, is_working, country, region, city, isp_domain, ip, port))
+            conn.commit()
+
+def 去重复(db_path):
+    # 连接到 SQLite 数据库
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    try:
+        # 创建临时表并插入唯一记录
         cursor.execute('''
-            UPDATE proxies
-            SET anonymity = ?, latency = ?, is_working = ?, country = ?, region = ?, city = ?, isp_domain = ?
-            WHERE ip = ? AND port = ?
-        ''', (anonymity, latency, is_working, country, region, city, isp_domain, ip, port))
+            CREATE TABLE temp_proxies AS
+            SELECT ip, port, MIN(rowid) as min_rowid
+            FROM proxies
+            GROUP BY ip, port;
+        ''')
+
+        # 删除原表中的所有记录
+        cursor.execute('DELETE FROM proxies;')
+
+        # 将唯一记录插入回原表
+        cursor.execute('''
+            INSERT INTO proxies (ip, port)
+            SELECT ip, port
+            FROM temp_proxies;
+        ''')
+
+        # 删除临时表
+        cursor.execute('DROP TABLE temp_proxies;')
+
+        # 提交更改
         conn.commit()
+    except sqlite3.Error as e:
+        print(f"An error occurred: {e}")
+        conn.rollback()
+    finally:
+        # 关闭连接
         conn.close()
+
+去重复(db_path)
 
 # 创建线程列表
 threads = []
@@ -134,6 +175,6 @@ for proxy in proxies:
 
 # 等待所有线程完成
 for thread in threads:
-    thread.join()
+    thread.join(timeout=10)
 
 print("All proxy tests completed.")
