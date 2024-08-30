@@ -3,7 +3,7 @@ import pymssql
 server = 'sqlip.database.windows.net'
 database = 'sqlip'
 username = 'hotdog'
-password = 'Cp1165750680'  # 注意：实际应用中应避免硬编码密码
+password = ''  # 注意：实际应用中应避免硬编码密码
 
 # 创建连接
 conn = pymssql.connect(server, username, password, database)
