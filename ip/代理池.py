@@ -24,6 +24,7 @@ CREATE TABLE IF NOT EXISTS proxies (
     port TEXT NOT NULL
 )
 ''')
+#这是一个修改
 
 # 插入代理信息到数据库的函数
 def insert_proxy(ip, port):
