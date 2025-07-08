@@ -1,0 +1,1302 @@
+2025-07-07 14:24:55,005 - main - INFO - 代理池管理系统启动
+2025-07-07 14:24:55,019 - api - INFO - 代理池服务启动中...
+2025-07-07 14:24:55,069 - database - INFO - 数据库初始化完成
+2025-07-07 14:24:55,070 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:24:55,071 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:24:55,071 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:24:55,071 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:24:55,071 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:24:55,072 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:24:55,072 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:24:55,072 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:24:55,072 - api - INFO - 代理池服务启动完成
+2025-07-07 14:25:11,206 - api - ERROR - 服务器内部错误: 'dict' object is not callable
+2025-07-07 14:25:30,725 - api - ERROR - 服务器内部错误: 'dict' object is not callable
+2025-07-07 14:28:40,040 - api - INFO - 代理池服务关闭中...
+2025-07-07 14:28:40,041 - scheduler - INFO - 任务调度器已停止
+2025-07-07 14:28:40,041 - api - INFO - 代理池服务已关闭
+2025-07-07 14:28:40,042 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 14:28:40,043 - main - INFO - 代理池管理系统已关闭
+2025-07-07 14:29:43,737 - main - INFO - 代理池管理系统启动
+2025-07-07 14:29:43,749 - api - INFO - 代理池服务启动中...
+2025-07-07 14:29:43,751 - database - INFO - 数据库初始化完成
+2025-07-07 14:29:43,752 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:29:43,753 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:29:43,753 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:29:43,753 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:29:43,753 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:29:43,754 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:29:43,754 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:29:43,754 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:29:43,754 - api - INFO - 代理池服务启动完成
+2025-07-07 14:29:52,022 - __main__ - INFO - 代理池管理系统启动
+2025-07-07 14:29:52,034 - api - INFO - 代理池服务启动中...
+2025-07-07 14:29:52,035 - database - INFO - 数据库初始化完成
+2025-07-07 14:29:52,036 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:29:52,036 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:29:52,037 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:29:52,037 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:29:52,037 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:29:52,037 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:29:52,038 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:29:52,038 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:29:52,038 - api - INFO - 代理池服务启动完成
+2025-07-07 14:29:52,038 - api - INFO - 代理池服务关闭中...
+2025-07-07 14:29:52,039 - scheduler - INFO - 任务调度器已停止
+2025-07-07 14:29:52,039 - api - INFO - 代理池服务已关闭
+2025-07-07 14:29:52,039 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 14:29:52,039 - __main__ - INFO - 代理池管理系统已关闭
+2025-07-07 14:30:49,352 - main - INFO - 代理池管理系统启动
+2025-07-07 14:30:49,368 - api - INFO - 代理池服务启动中...
+2025-07-07 14:30:49,371 - database - INFO - 数据库初始化完成
+2025-07-07 14:30:49,373 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:30:49,373 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:30:49,373 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:30:49,374 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:30:49,374 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:30:49,375 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:30:49,375 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:30:49,375 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:30:49,376 - api - INFO - 代理池服务启动完成
+2025-07-07 14:30:49,869 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:30:49,869 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:30:49,869 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:30:49,870 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:30:50,041 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:30:50,041 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:31:11,087 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:31:11,087 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 14:31:11,088 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:31:11,088 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 14:31:11,102 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:31:11,102 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 14:31:11,103 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 14:31:11,104 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 14:31:11,104 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 14:31:59,366 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:31:59,366 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:31:59,366 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:31:59,367 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:31:59,367 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:31:59,367 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:32:20,418 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:32:20,418 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 14:32:20,419 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:32:20,419 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 14:32:20,419 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:32:20,419 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 14:32:20,420 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 14:32:20,420 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 14:32:20,420 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 14:34:02,509 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:34:02,509 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:34:02,510 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:34:02,510 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:34:02,510 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:34:02,510 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:34:23,558 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:34:23,558 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 14:34:23,558 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:34:23,559 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 14:34:23,559 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:34:23,559 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 14:34:23,559 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 14:34:23,559 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 14:34:23,560 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 14:35:25,029 - main - INFO - 代理池管理系统启动
+2025-07-07 14:35:25,040 - api - INFO - 代理池服务启动中...
+2025-07-07 14:35:25,042 - database - INFO - 数据库初始化完成
+2025-07-07 14:35:25,043 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:35:25,043 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:35:25,044 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:35:25,044 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:35:25,044 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:35:25,044 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:35:25,045 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:35:25,045 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:35:25,045 - api - INFO - 代理池服务启动完成
+2025-07-07 14:37:14,750 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:37:14,750 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:37:14,750 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:37:14,751 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:37:14,751 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:37:14,751 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:37:35,801 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:37:35,802 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 14:37:35,803 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:37:35,803 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 14:37:35,816 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:37:35,817 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 14:37:35,818 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 14:37:35,818 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 14:37:35,819 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 14:38:25,002 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:38:25,002 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:38:25,002 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:38:25,002 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:38:25,003 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:38:25,003 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:38:46,081 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:38:46,083 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 14:38:46,084 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:38:46,085 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 14:38:46,087 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 14:38:46,087 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 14:38:46,087 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 14:38:46,088 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 14:38:46,088 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 14:38:50,169 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 14:38:50,169 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 14:38:50,169 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 14:38:50,170 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 14:38:50,170 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 14:38:50,170 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 14:39:02,549 - proxy_fetcher - INFO - 获取到 1907 个HTTP代理
+2025-07-07 14:39:02,589 - proxy_fetcher - INFO - 获取到 3325 个SOCKS5代理
+2025-07-07 14:39:02,919 - proxy_fetcher - INFO - 获取到 2061 个HTTPS代理
+2025-07-07 14:39:02,919 - proxy_fetcher - INFO - 总共获取到 7293 个代理
+2025-07-07 14:39:02,923 - proxy_fetcher - INFO - 去重后剩余 7293 个代理
+2025-07-07 14:40:04,988 - scheduler - INFO - 获取新代理任务完成，保存了 7293 个新代理
+2025-07-07 14:44:49,104 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 14:44:49,104 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 14:44:49,109 - proxy_validator - INFO - 开始批量验证 100 个代理
+2025-07-07 14:44:59,375 - proxy_validator - INFO - 批量验证完成，成功: 22/100
+2025-07-07 14:45:01,065 - scheduler - INFO - 验证现有代理任务完成，成功: 22/100
+2025-07-07 14:46:05,977 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 14:46:05,977 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 14:46:05,984 - proxy_validator - INFO - 开始批量验证 100 个代理
+2025-07-07 14:46:16,376 - proxy_validator - INFO - 批量验证完成，成功: 22/100
+2025-07-07 14:46:18,032 - scheduler - INFO - 验证现有代理任务完成，成功: 22/100
+2025-07-07 14:46:33,657 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 14:46:33,657 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 14:46:33,664 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,664 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,830 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,830 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,830 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,830 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,831 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,831 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,831 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,831 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,831 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,831 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,831 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,832 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,832 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,832 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,832 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,833 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,833 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,833 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,833 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,833 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,833 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,833 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,834 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,834 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,834 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,834 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,834 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,834 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,834 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,836 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,836 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,836 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,836 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,836 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,836 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,836 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:46:33,836 - location_service - INFO - IP数据库不存在，正在下载...
+2025-07-07 14:46:33,837 - location_service - INFO - 正在下载IP数据库: https://raw.gitmirror.com/nmgliangwei/qqwry.ipdb/main/qqwry.ipdb
+2025-07-07 14:47:03,034 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 14:47:03,034 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 14:47:03,467 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:03,853 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:04,150 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:04,490 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:04,859 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:05,163 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:05,521 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:05,930 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:06,196 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:06,544 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:06,919 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:07,205 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:07,552 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:07,929 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:08,244 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:08,600 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:08,973 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:09,309 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:09,675 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:10,012 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:10,352 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:10,713 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:11,029 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:11,360 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:11,705 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:12,028 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:12,355 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:12,703 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:13,018 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:13,355 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:13,716 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:14,044 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:14,372 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:14,718 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:15,033 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:15,365 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:15,713 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:16,035 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:16,392 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:16,754 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:17,089 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:17,424 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:17,768 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:18,064 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:18,407 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:18,767 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:19,088 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:19,425 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:19,769 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:20,071 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:20,397 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:20,749 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:21,084 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:21,431 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:21,786 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:22,104 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:22,440 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:22,798 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:23,099 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:23,436 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:23,781 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:24,091 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:24,459 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:24,826 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:25,117 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:25,474 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:25,870 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:26,156 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:26,505 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:26,879 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:27,161 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:27,537 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:27,919 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:28,192 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:28,533 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:28,910 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:29,208 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:29,598 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:29,959 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:30,346 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:30,712 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:31,047 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:31,377 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:31,712 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:32,022 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:32,354 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:32,690 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:33,003 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:33,333 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:33,672 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:33,991 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:34,330 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:34,665 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:34,994 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:35,348 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:35,698 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:36,010 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:36,346 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:36,683 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:36,999 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:37,025 - scheduler - INFO - 更新代理地理位置任务完成，更新了 0 个代理
+2025-07-07 14:47:46,318 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:47:46,590 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:46,979 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:47,285 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:47,644 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:48,005 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:48,403 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:48,764 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:49,100 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:49,457 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:49,818 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:50,142 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:50,558 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:50,948 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:51,240 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:51,592 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:51,980 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:52,265 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:52,622 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:52,994 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:53,351 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:53,711 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:54,071 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:54,353 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:54,729 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:55,059 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:55,415 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:55,776 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:56,100 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:56,455 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:56,851 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:57,162 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:57,530 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:57,897 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:58,187 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:58,557 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:58,938 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:59,226 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:59,586 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:47:59,986 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:00,267 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:00,619 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:00,976 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:01,346 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:01,704 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:02,034 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:02,390 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:02,751 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:03,082 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:03,447 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:03,819 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:04,126 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:04,155 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:04,514 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:04,871 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:05,171 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:05,529 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:05,891 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:06,184 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:06,533 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:06,897 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:07,192 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:07,218 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:07,553 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:07,910 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:08,201 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:08,557 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:08,922 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:09,223 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:09,581 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:09,972 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:10,248 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:10,607 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:10,982 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:11,255 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:11,635 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:11,992 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:12,338 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:12,698 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:13,030 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:13,380 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:13,745 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:14,071 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:14,420 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:14,791 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:15,101 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:15,225 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:15,595 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:15,661 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:16,008 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:16,063 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:16,359 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:16,419 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:16,771 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:16,840 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:17,171 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:17,212 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:17,552 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:17,582 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:17,990 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:18,020 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:18,286 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:18,315 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:18,673 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:18,742 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:19,053 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:19,084 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:19,451 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:19,509 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:19,849 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:19,881 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:20,197 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:20,251 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:20,593 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:20,623 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:20,997 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:21,038 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:21,375 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:21,404 - location_service - INFO - IP数据库下载完成: qqwry.ipdb
+2025-07-07 14:48:21,764 - location_service - ERROR - 加载IP数据库失败: 'utf-8' codec can't decode byte 0xb2 in position 245: invalid start byte
+2025-07-07 14:48:21,793 - scheduler - INFO - 更新代理地理位置任务完成，更新了 0 个代理
+2025-07-07 14:50:25,830 - api - INFO - 代理池服务关闭中...
+2025-07-07 14:50:25,830 - scheduler - INFO - 任务调度器已停止
+2025-07-07 14:50:25,831 - api - INFO - 代理池服务已关闭
+2025-07-07 14:50:25,831 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 14:50:25,832 - main - INFO - 代理池管理系统已关闭
+2025-07-07 14:50:28,381 - main - INFO - 代理池管理系统启动
+2025-07-07 14:50:28,392 - api - INFO - 代理池服务启动中...
+2025-07-07 14:50:28,395 - database - INFO - 数据库初始化完成
+2025-07-07 14:50:28,396 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 14:50:28,397 - scheduler - INFO - 任务调度器已启动
+2025-07-07 14:50:28,397 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 14:50:28,398 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 14:50:28,398 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 14:50:28,398 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 14:50:28,399 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 14:50:28,399 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 14:50:28,399 - api - INFO - 代理池服务启动完成
+2025-07-07 14:50:32,901 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 14:50:32,901 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 14:50:32,907 - location_service - INFO - IP数据库加载完成，使用预定义IP段映射
+2025-07-07 14:50:33,749 - scheduler - INFO - 更新代理地理位置任务完成，更新了 100 个代理
+2025-07-07 14:58:30,839 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 14:58:30,839 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 14:58:30,843 - scheduler - INFO - 没有需要更新地理位置的代理
+2025-07-07 15:00:53,047 - api - INFO - 代理池服务关闭中...
+2025-07-07 15:00:53,047 - scheduler - INFO - 任务调度器已停止
+2025-07-07 15:00:53,047 - api - INFO - 代理池服务已关闭
+2025-07-07 15:00:53,047 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 15:00:53,048 - main - INFO - 代理池管理系统已关闭
+2025-07-07 15:10:56,450 - main - INFO - 代理池管理系统启动
+2025-07-07 15:10:56,463 - api - INFO - 代理池服务启动中...
+2025-07-07 15:10:56,465 - database - INFO - 数据库初始化完成
+2025-07-07 15:10:56,466 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 15:10:56,466 - scheduler - INFO - 任务调度器已启动
+2025-07-07 15:10:56,466 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 15:10:56,467 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 15:10:56,467 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 15:10:56,467 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 15:10:56,467 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 15:10:56,468 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 15:10:56,468 - api - INFO - 代理池服务启动完成
+2025-07-07 15:13:14,226 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:13:16,516 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:14:18,712 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:15:07,814 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:15:07,814 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:15:07,818 - scheduler - INFO - 没有需要更新地理位置的代理
+2025-07-07 15:19:55,905 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:20:19,097 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:20:19,097 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 15:20:19,102 - proxy_validator - INFO - 开始批量验证 100 个代理
+2025-07-07 15:20:29,378 - proxy_validator - INFO - 批量验证完成，成功: 29/100
+2025-07-07 15:20:31,024 - scheduler - INFO - 验证现有代理任务完成，成功: 29/100
+2025-07-07 15:27:10,828 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:27:10,828 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 15:27:10,832 - proxy_validator - INFO - 开始批量验证 100 个代理
+2025-07-07 15:27:21,391 - proxy_validator - INFO - 批量验证完成，成功: 6/100
+2025-07-07 15:27:23,049 - scheduler - INFO - 验证现有代理任务完成，成功: 6/100
+2025-07-07 15:28:01,642 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:28:01,642 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 15:28:01,649 - proxy_validator - INFO - 开始批量验证 100 个代理
+2025-07-07 15:28:12,389 - proxy_validator - INFO - 批量验证完成，成功: 13/100
+2025-07-07 15:28:14,056 - scheduler - INFO - 验证现有代理任务完成，成功: 13/100
+2025-07-07 15:28:17,519 - api - INFO - 代理池服务关闭中...
+2025-07-07 15:28:17,520 - scheduler - INFO - 任务调度器已停止
+2025-07-07 15:28:17,520 - api - INFO - 代理池服务已关闭
+2025-07-07 15:28:17,520 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 15:28:17,520 - main - INFO - 代理池管理系统已关闭
+2025-07-07 15:28:19,691 - main - INFO - 代理池管理系统启动
+2025-07-07 15:28:19,705 - api - INFO - 代理池服务启动中...
+2025-07-07 15:28:19,707 - database - INFO - 数据库初始化完成
+2025-07-07 15:28:19,709 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 15:28:19,709 - scheduler - INFO - 任务调度器已启动
+2025-07-07 15:28:19,709 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 15:28:19,709 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 15:28:19,709 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 15:28:19,710 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 15:28:19,710 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 15:28:19,710 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 15:28:19,710 - api - INFO - 代理池服务启动完成
+2025-07-07 15:28:28,672 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 15:28:28,672 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 15:28:28,733 - proxy_validator - INFO - 开始批量验证 6886 个代理
+2025-07-07 15:28:40,778 - proxy_validator - INFO - 批量验证完成，成功: 3395/6886
+2025-07-07 15:30:44,824 - scheduler - INFO - 验证现有代理任务完成，成功: 3395/6886
+2025-07-07 15:30:59,753 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:30:59,753 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:30:59,759 - scheduler - INFO - 没有需要更新地理位置的代理
+2025-07-07 15:33:33,131 - api - INFO - 代理池服务关闭中...
+2025-07-07 15:33:33,132 - scheduler - INFO - 任务调度器已停止
+2025-07-07 15:33:33,132 - api - INFO - 代理池服务已关闭
+2025-07-07 15:33:33,132 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 15:33:33,133 - main - INFO - 代理池管理系统已关闭
+2025-07-07 15:36:11,051 - main - INFO - 代理池管理系统启动
+2025-07-07 15:36:11,071 - api - INFO - 代理池服务启动中...
+2025-07-07 15:36:11,075 - database - INFO - 数据库初始化完成
+2025-07-07 15:36:11,078 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 15:36:11,079 - scheduler - INFO - 任务调度器已启动
+2025-07-07 15:36:11,079 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 15:36:11,079 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 15:36:11,079 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 15:36:11,080 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 15:36:11,080 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 15:36:11,080 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 15:36:11,080 - api - INFO - 代理池服务启动完成
+2025-07-07 15:37:21,818 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 15:37:21,819 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 15:37:21,819 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 15:37:21,819 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 15:37:21,819 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 15:37:21,820 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 15:37:33,050 - proxy_fetcher - INFO - 获取到 1907 个HTTP代理
+2025-07-07 15:37:33,062 - proxy_fetcher - INFO - 获取到 2061 个HTTPS代理
+2025-07-07 15:37:33,081 - proxy_fetcher - INFO - 获取到 3325 个SOCKS5代理
+2025-07-07 15:37:33,081 - proxy_fetcher - INFO - 总共获取到 7293 个代理
+2025-07-07 15:37:33,084 - proxy_fetcher - INFO - 去重后剩余 7293 个代理
+2025-07-07 15:38:04,782 - scheduler - INFO - 手动执行获取代理任务
+2025-07-07 15:38:04,783 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 15:38:04,783 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002097A6F1C10>
+2025-07-07 15:38:04,783 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 15:38:04,783 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 15:38:04,783 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 15:38:04,784 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 15:38:04,949 - proxy_fetcher - INFO - 获取到 1907 个HTTP代理
+2025-07-07 15:38:04,960 - proxy_fetcher - INFO - 获取到 2061 个HTTPS代理
+2025-07-07 15:38:04,975 - proxy_fetcher - INFO - 获取到 3325 个SOCKS5代理
+2025-07-07 15:38:04,975 - proxy_fetcher - INFO - 总共获取到 7293 个代理
+2025-07-07 15:38:04,978 - proxy_fetcher - INFO - 去重后剩余 7293 个代理
+2025-07-07 15:39:04,263 - scheduler - INFO - 获取新代理任务完成，保存了 7293 个新代理
+2025-07-07 15:39:40,684 - scheduler - INFO - 获取新代理任务完成，保存了 7293 个新代理
+2025-07-07 15:46:03,504 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:46:03,504 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:46:03,515 - location_service - INFO - 成功导入ipdb库
+2025-07-07 15:46:03,533 - location_service - INFO - IP数据库加载完成
+2025-07-07 15:46:03,534 - location_service - INFO - 支持语言: ['CN']
+2025-07-07 15:46:03,534 - location_service - INFO - 数据字段: ['country_name', 'region_name', 'city_name', 'district_name', 'owner_domain', 'isp_domain', 'country_code', 'continent_code']
+2025-07-07 15:46:03,534 - location_service - INFO - 构建时间: 1751452656
+2025-07-07 15:46:04,391 - scheduler - INFO - 更新代理地理位置任务完成，更新了 100 个代理
+2025-07-07 15:46:50,225 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:46:50,225 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:46:50,757 - scheduler - INFO - 更新代理地理位置任务完成，更新了 63 个代理
+2025-07-07 15:46:56,403 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:46:56,404 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:46:56,929 - scheduler - INFO - 更新代理地理位置任务完成，更新了 63 个代理
+2025-07-07 15:47:01,251 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 15:47:01,252 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 15:47:01,772 - scheduler - INFO - 更新代理地理位置任务完成，更新了 63 个代理
+2025-07-07 16:06:11,083 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 16:36:11 CST)" (scheduled at 2025-07-07 16:06:11.079823+08:00)
+2025-07-07 16:06:11,084 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 16:06:11,152 - proxy_validator - INFO - 开始批量验证 7294 个代理
+2025-07-07 16:06:22,564 - proxy_validator - INFO - 批量验证完成，成功: 3392/7294
+2025-07-07 16:08:28,734 - scheduler - INFO - 验证现有代理任务完成，成功: 3392/7294
+2025-07-07 16:08:28,738 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 16:36:11 CST)" executed successfully
+2025-07-07 16:14:52,061 - api - INFO - 代理池服务关闭中...
+2025-07-07 16:14:52,062 - scheduler - INFO - 任务调度器已停止
+2025-07-07 16:14:52,063 - api - INFO - 代理池服务已关闭
+2025-07-07 16:14:52,064 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-07 16:14:52,066 - main - INFO - 代理池管理系统已关闭
+2025-07-07 16:14:54,817 - main - INFO - 代理池管理系统启动
+2025-07-07 16:14:54,839 - api - INFO - 代理池服务启动中...
+2025-07-07 16:14:54,842 - database - INFO - 数据库初始化完成
+2025-07-07 16:14:54,844 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-07 16:14:54,844 - scheduler - INFO - 任务调度器已启动
+2025-07-07 16:14:54,845 - apscheduler.scheduler - INFO - Added job "获取新代理" to job store "default"
+2025-07-07 16:14:54,845 - apscheduler.scheduler - INFO - Added job "验证现有代理" to job store "default"
+2025-07-07 16:14:54,846 - apscheduler.scheduler - INFO - Added job "更新代理地理位置" to job store "default"
+2025-07-07 16:14:54,846 - apscheduler.scheduler - INFO - Added job "清理过期记录" to job store "default"
+2025-07-07 16:14:54,847 - apscheduler.scheduler - INFO - Added job "数据库维护" to job store "default"
+2025-07-07 16:14:54,847 - scheduler - INFO - 所有定时任务已添加
+2025-07-07 16:14:54,847 - api - INFO - 代理池服务启动完成
+2025-07-07 16:15:03,182 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 16:15:03,182 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 16:15:03,285 - location_service - INFO - 成功导入ipdb库
+2025-07-07 16:15:03,303 - location_service - INFO - IP数据库加载完成
+2025-07-07 16:15:03,303 - location_service - INFO - 支持语言: ['CN']
+2025-07-07 16:15:03,303 - location_service - INFO - 数据字段: ['country_name', 'region_name', 'city_name', 'district_name', 'owner_domain', 'isp_domain', 'country_code', 'continent_code']
+2025-07-07 16:15:03,303 - location_service - INFO - 构建时间: 1751452656
+2025-07-07 16:16:04,692 - scheduler - INFO - 更新代理地理位置任务完成，更新了 7257 个代理
+2025-07-07 16:44:54,853 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 17:14:54 CST)" (scheduled at 2025-07-07 16:44:54.845550+08:00)
+2025-07-07 16:44:54,854 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 16:44:54,918 - proxy_validator - INFO - 开始批量验证 3392 个代理
+2025-07-07 16:45:16,412 - proxy_validator - INFO - 批量验证完成，成功: 546/3392
+2025-07-07 16:46:21,049 - scheduler - INFO - 验证现有代理任务完成，成功: 546/3392
+2025-07-07 16:46:21,053 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 17:14:54 CST)" executed successfully
+2025-07-07 17:14:54,860 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 18:14:54 CST)" (scheduled at 2025-07-07 17:14:54.845550+08:00)
+2025-07-07 17:14:54,861 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 17:14:54,862 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 17:14:54,862 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 17:44:54 CST)" (scheduled at 2025-07-07 17:14:54.845550+08:00)
+2025-07-07 17:14:54,862 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 17:14:54,863 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 17:14:54,864 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 17:14:54,864 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 17:14:54,898 - proxy_validator - INFO - 开始批量验证 546 个代理
+2025-07-07 17:15:15,392 - proxy_validator - INFO - 批量验证完成，成功: 434/546
+2025-07-07 17:15:15,993 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 17:15:15,993 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 17:15:15,994 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 17:15:15,994 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 17:15:15,994 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-07 17:15:15,994 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 17:15:15,995 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 17:15:15,995 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 17:15:15,995 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 17:15:15,995 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 18:14:54 CST)" executed successfully
+2025-07-07 17:15:25,412 - scheduler - INFO - 验证现有代理任务完成，成功: 434/546
+2025-07-07 17:15:25,413 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 17:44:54 CST)" executed successfully
+2025-07-07 17:25:28,392 - scheduler - INFO - 手动执行验证代理任务
+2025-07-07 17:25:28,392 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 17:25:28,402 - proxy_validator - INFO - 开始批量验证 434 个代理
+2025-07-07 17:25:39,449 - proxy_validator - INFO - 批量验证完成，成功: 430/434
+2025-07-07 17:25:46,641 - scheduler - INFO - 验证现有代理任务完成，成功: 430/434
+2025-07-07 17:26:37,643 - scheduler - INFO - 手动执行更新地理位置任务
+2025-07-07 17:26:37,643 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 17:27:20,842 - scheduler - INFO - 更新代理地理位置任务完成，更新了 4844 个代理
+2025-07-07 17:44:54,858 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 18:14:54 CST)" (scheduled at 2025-07-07 17:44:54.845550+08:00)
+2025-07-07 17:44:54,860 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 17:44:54,879 - proxy_validator - INFO - 开始批量验证 430 个代理
+2025-07-07 17:45:05,455 - proxy_validator - INFO - 批量验证完成，成功: 430/430
+2025-07-07 17:45:12,518 - scheduler - INFO - 验证现有代理任务完成，成功: 430/430
+2025-07-07 17:45:12,518 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 18:14:54 CST)" executed successfully
+2025-07-07 18:14:55,957 - apscheduler.executors.default - WARNING - Run time of job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 19:14:54 CST)" was missed by 0:00:01.112208
+2025-07-07 18:14:55,958 - apscheduler.executors.default - WARNING - Run time of job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-07 20:14:54 CST)" was missed by 0:00:01.113207
+2025-07-07 18:14:55,959 - apscheduler.executors.default - WARNING - Run time of job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 18:44:54 CST)" was missed by 0:00:01.114202
+2025-07-07 18:44:54,864 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 19:14:54 CST)" (scheduled at 2025-07-07 18:44:54.845550+08:00)
+2025-07-07 18:44:54,865 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 18:44:54,876 - proxy_validator - INFO - 开始批量验证 430 个代理
+2025-07-07 18:45:05,557 - proxy_validator - INFO - 批量验证完成，成功: 429/430
+2025-07-07 18:45:12,612 - scheduler - INFO - 验证现有代理任务完成，成功: 429/430
+2025-07-07 18:45:12,613 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 19:14:54 CST)" executed successfully
+2025-07-07 19:14:54,860 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 20:14:54 CST)" (scheduled at 2025-07-07 19:14:54.845550+08:00)
+2025-07-07 19:14:54,861 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 19:14:54,861 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 19:14:54,861 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 19:44:54 CST)" (scheduled at 2025-07-07 19:14:54.845550+08:00)
+2025-07-07 19:14:54,861 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 19:14:54,862 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 19:14:54,862 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 19:14:54,862 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 19:14:54,868 - proxy_validator - INFO - 开始批量验证 429 个代理
+2025-07-07 19:14:59,982 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 19:14:59,983 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 19:14:59,983 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 19:14:59,984 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 19:14:59,985 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 19:14:59,985 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 19:14:59,985 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 19:14:59,986 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 19:14:59,987 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 19:14:59,988 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 20:14:54 CST)" executed successfully
+2025-07-07 19:15:00,009 - proxy_validator - INFO - 批量验证完成，成功: 411/429
+2025-07-07 19:15:07,373 - scheduler - INFO - 验证现有代理任务完成，成功: 411/429
+2025-07-07 19:15:07,374 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 19:44:54 CST)" executed successfully
+2025-07-07 19:44:54,854 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 20:14:54 CST)" (scheduled at 2025-07-07 19:44:54.845550+08:00)
+2025-07-07 19:44:54,856 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 19:44:54,876 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 19:45:00,017 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 19:45:07,072 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 19:45:07,073 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 20:14:54 CST)" executed successfully
+2025-07-07 20:14:54,848 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 21:14:54 CST)" (scheduled at 2025-07-07 20:14:54.845550+08:00)
+2025-07-07 20:14:54,849 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 20:14:54,849 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 20:14:54,849 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-07 22:14:54 CST)" (scheduled at 2025-07-07 20:14:54.845550+08:00)
+2025-07-07 20:14:54,850 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 20:14:54,850 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 20:44:54 CST)" (scheduled at 2025-07-07 20:14:54.845550+08:00)
+2025-07-07 20:14:54,850 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 20:14:54,851 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 20:14:54,851 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 20:14:54,851 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 20:14:54,858 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 20:14:59,986 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 20:15:10,919 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 20:15:10,920 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 20:15:10,920 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 20:15:10,920 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 20:15:10,920 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 20:15:10,921 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 20:15:10,921 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 20:15:10,921 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 20:15:10,921 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 20:15:10,921 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 21:14:54 CST)" executed successfully
+2025-07-07 20:15:16,486 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 20:15:16,487 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 20:44:54 CST)" executed successfully
+2025-07-07 20:15:43,164 - scheduler - INFO - 更新代理地理位置任务完成，更新了 4844 个代理
+2025-07-07 20:15:43,168 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-07 22:14:54 CST)" executed successfully
+2025-07-07 20:44:54,851 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 21:14:54 CST)" (scheduled at 2025-07-07 20:44:54.845550+08:00)
+2025-07-07 20:44:54,852 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 20:44:54,865 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 20:45:00,046 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 20:45:06,903 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 20:45:06,903 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 21:14:54 CST)" executed successfully
+2025-07-07 21:14:54,858 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 22:14:54 CST)" (scheduled at 2025-07-07 21:14:54.845550+08:00)
+2025-07-07 21:14:54,859 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 21:14:54,859 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 21:14:54,859 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 21:44:54 CST)" (scheduled at 2025-07-07 21:14:54.845550+08:00)
+2025-07-07 21:14:54,860 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 21:14:54,860 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 21:14:54,861 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 21:14:54,861 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 21:14:54,879 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 21:14:59,881 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 21:14:59,883 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 21:14:59,883 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 21:14:59,884 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 21:14:59,885 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 21:14:59,886 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 21:14:59,886 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 21:14:59,886 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 21:14:59,887 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 21:14:59,887 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 22:14:54 CST)" executed successfully
+2025-07-07 21:15:00,018 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 21:15:07,193 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 21:15:07,194 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 21:44:54 CST)" executed successfully
+2025-07-07 21:44:54,852 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 22:14:54 CST)" (scheduled at 2025-07-07 21:44:54.845550+08:00)
+2025-07-07 21:44:54,853 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 21:44:54,890 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 21:45:00,020 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 21:45:07,219 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 21:45:07,219 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 22:14:54 CST)" executed successfully
+2025-07-07 22:14:54,855 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 23:14:54 CST)" (scheduled at 2025-07-07 22:14:54.845550+08:00)
+2025-07-07 22:14:54,856 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 22:14:54,856 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 22:14:54,856 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 00:14:54 CST)" (scheduled at 2025-07-07 22:14:54.845550+08:00)
+2025-07-07 22:14:54,857 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-07 22:14:54,857 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 22:44:54 CST)" (scheduled at 2025-07-07 22:14:54.845550+08:00)
+2025-07-07 22:14:54,857 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 22:14:54,858 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 22:14:54,858 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 22:14:54,858 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 22:14:54,864 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 22:14:59,873 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 22:14:59,873 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-07 22:14:59,874 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 22:14:59,874 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 22:14:59,874 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [指定的网络名不再可用。]
+2025-07-07 22:14:59,875 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-07 22:14:59,875 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-07 22:14:59,875 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-07 22:14:59,875 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-07 22:14:59,875 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-07 23:14:54 CST)" executed successfully
+2025-07-07 22:14:59,986 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 22:15:13,144 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 22:15:13,145 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 22:44:54 CST)" executed successfully
+2025-07-07 22:15:45,526 - scheduler - INFO - 更新代理地理位置任务完成，更新了 4844 个代理
+2025-07-07 22:15:45,530 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 00:14:54 CST)" executed successfully
+2025-07-07 22:44:54,855 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 23:14:54 CST)" (scheduled at 2025-07-07 22:44:54.845550+08:00)
+2025-07-07 22:44:54,855 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 22:44:54,865 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 22:45:05,553 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 22:45:12,338 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 22:45:12,339 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 23:14:54 CST)" executed successfully
+2025-07-07 23:14:54,858 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 00:14:54 CST)" (scheduled at 2025-07-07 23:14:54.845550+08:00)
+2025-07-07 23:14:54,858 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-07 23:14:54,859 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-07 23:14:54,859 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 23:44:54 CST)" (scheduled at 2025-07-07 23:14:54.845550+08:00)
+2025-07-07 23:14:54,859 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 23:14:54,860 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-07 23:14:54,860 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-07 23:14:54,860 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-07 23:14:54,867 - proxy_validator - INFO - 开始批量验证 411 个代理
+2025-07-07 23:14:58,360 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [None]
+2025-07-07 23:14:58,360 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-07 23:14:58,917 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-07 23:14:59,792 - proxy_fetcher - INFO - 获取到 2061 个HTTPS代理
+2025-07-07 23:14:59,792 - proxy_fetcher - INFO - 总共获取到 3620 个代理
+2025-07-07 23:14:59,793 - proxy_fetcher - INFO - 去重后剩余 3620 个代理
+2025-07-07 23:15:05,476 - proxy_validator - INFO - 批量验证完成，成功: 411/411
+2025-07-07 23:15:21,179 - scheduler - INFO - 验证现有代理任务完成，成功: 411/411
+2025-07-07 23:15:21,180 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-07 23:44:54 CST)" executed successfully
+2025-07-07 23:15:37,338 - scheduler - INFO - 获取新代理任务完成，保存了 3620 个新代理
+2025-07-07 23:15:37,339 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 00:14:54 CST)" executed successfully
+2025-07-07 23:44:54,861 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 00:14:54 CST)" (scheduled at 2025-07-07 23:44:54.845550+08:00)
+2025-07-07 23:44:54,863 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-07 23:44:54,918 - proxy_validator - INFO - 开始批量验证 4031 个代理
+2025-07-07 23:45:05,572 - proxy_validator - INFO - 批量验证完成，成功: 489/4031
+2025-07-07 23:46:12,691 - scheduler - INFO - 验证现有代理任务完成，成功: 489/4031
+2025-07-07 23:46:12,693 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 00:14:54 CST)" executed successfully
+2025-07-08 00:14:54,851 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 01:14:54 CST)" (scheduled at 2025-07-08 00:14:54.845550+08:00)
+2025-07-08 00:14:54,853 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 00:14:54,854 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 00:14:54,855 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 02:14:54 CST)" (scheduled at 2025-07-08 00:14:54.845550+08:00)
+2025-07-08 00:14:54,856 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 00:14:54,857 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 00:44:54 CST)" (scheduled at 2025-07-08 00:14:54.845550+08:00)
+2025-07-08 00:14:54,858 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 00:14:54,858 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 00:14:54,859 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 00:14:54,859 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 00:14:54,876 - proxy_validator - INFO - 开始批量验证 489 个代理
+2025-07-08 00:15:05,526 - proxy_validator - INFO - 批量验证完成，成功: 478/489
+2025-07-08 00:15:08,543 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 00:15:08,551 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 00:15:08,816 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 00:15:08,816 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 00:15:08,818 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 00:15:24,939 - scheduler - INFO - 验证现有代理任务完成，成功: 478/489
+2025-07-08 00:15:24,940 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 00:44:54 CST)" executed successfully
+2025-07-08 00:16:46,687 - scheduler - INFO - 更新代理地理位置任务完成，更新了 6560 个代理
+2025-07-08 00:16:46,691 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 02:14:54 CST)" executed successfully
+2025-07-08 00:16:51,975 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 00:16:51,977 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 01:14:54 CST)" executed successfully
+2025-07-08 00:44:54,851 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 01:14:54 CST)" (scheduled at 2025-07-08 00:44:54.845550+08:00)
+2025-07-08 00:44:54,851 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 00:44:54,910 - proxy_validator - INFO - 开始批量验证 6630 个代理
+2025-07-08 00:45:06,580 - proxy_validator - INFO - 批量验证完成，成功: 3166/6630
+2025-07-08 00:46:56,662 - scheduler - INFO - 验证现有代理任务完成，成功: 3166/6630
+2025-07-08 00:46:56,665 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 01:14:54 CST)" executed successfully
+2025-07-08 01:14:54,851 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 02:14:54 CST)" (scheduled at 2025-07-08 01:14:54.845550+08:00)
+2025-07-08 01:14:54,852 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 01:14:54,853 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 01:14:54,853 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 01:44:54 CST)" (scheduled at 2025-07-08 01:14:54.845550+08:00)
+2025-07-08 01:14:54,854 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 01:14:54,855 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 01:14:54,856 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 01:14:54,857 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 01:14:54,911 - proxy_validator - INFO - 开始批量验证 3166 个代理
+2025-07-08 01:14:55,762 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 01:14:55,773 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 01:14:56,030 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 01:14:56,031 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 01:14:56,113 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 01:15:05,799 - proxy_validator - INFO - 批量验证完成，成功: 3093/3166
+2025-07-08 01:16:26,734 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 01:16:26,736 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 02:14:54 CST)" executed successfully
+2025-07-08 01:16:34,720 - scheduler - INFO - 验证现有代理任务完成，成功: 3093/3166
+2025-07-08 01:16:34,723 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 01:44:54 CST)" executed successfully
+2025-07-08 01:44:54,855 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 02:14:54 CST)" (scheduled at 2025-07-08 01:44:54.845550+08:00)
+2025-07-08 01:44:54,857 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 01:44:54,983 - proxy_validator - INFO - 开始批量验证 6625 个代理
+2025-07-08 01:45:06,542 - proxy_validator - INFO - 批量验证完成，成功: 3219/6625
+2025-07-08 01:46:57,043 - scheduler - INFO - 验证现有代理任务完成，成功: 3219/6625
+2025-07-08 01:46:57,046 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 02:14:54 CST)" executed successfully
+2025-07-08 02:00:00,008 - apscheduler.executors.default - INFO - Running job "清理过期记录 (trigger: cron[hour='2', minute='0'], next run at: 2025-07-09 02:00:00 CST)" (scheduled at 2025-07-08 02:00:00+08:00)
+2025-07-08 02:00:00,008 - scheduler - INFO - 开始执行清理过期记录任务
+2025-07-08 02:00:00,023 - scheduler - INFO - 清理过期记录任务完成，删除了 0 条记录
+2025-07-08 02:00:00,024 - apscheduler.executors.default - INFO - Job "清理过期记录 (trigger: cron[hour='2', minute='0'], next run at: 2025-07-09 02:00:00 CST)" executed successfully
+2025-07-08 02:14:54,858 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 03:14:54 CST)" (scheduled at 2025-07-08 02:14:54.845550+08:00)
+2025-07-08 02:14:54,859 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 02:14:54,860 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 02:14:54,860 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 04:14:54 CST)" (scheduled at 2025-07-08 02:14:54.845550+08:00)
+2025-07-08 02:14:54,861 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 02:14:54,861 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 02:44:54 CST)" (scheduled at 2025-07-08 02:14:54.845550+08:00)
+2025-07-08 02:14:54,862 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 02:14:54,863 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 02:14:54,863 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 02:14:54,864 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 02:14:54,916 - proxy_validator - INFO - 开始批量验证 3219 个代理
+2025-07-08 02:14:55,977 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 02:14:55,987 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 02:14:55,997 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 02:14:56,329 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 02:14:56,331 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 02:15:05,984 - proxy_validator - INFO - 批量验证完成，成功: 3127/3219
+2025-07-08 02:17:02,166 - scheduler - INFO - 验证现有代理任务完成，成功: 3127/3219
+2025-07-08 02:17:02,170 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 02:44:54 CST)" executed successfully
+2025-07-08 02:17:02,746 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 02:17:02,747 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 03:14:54 CST)" executed successfully
+2025-07-08 02:17:12,947 - scheduler - INFO - 更新代理地理位置任务完成，更新了 8618 个代理
+2025-07-08 02:17:12,954 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 04:14:54 CST)" executed successfully
+2025-07-08 02:44:54,851 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 03:14:54 CST)" (scheduled at 2025-07-08 02:44:54.845550+08:00)
+2025-07-08 02:44:54,852 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 02:44:54,916 - proxy_validator - INFO - 开始批量验证 6623 个代理
+2025-07-08 02:45:06,626 - proxy_validator - INFO - 批量验证完成，成功: 3205/6623
+2025-07-08 02:46:56,950 - scheduler - INFO - 验证现有代理任务完成，成功: 3205/6623
+2025-07-08 02:46:56,954 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 03:14:54 CST)" executed successfully
+2025-07-08 03:14:54,856 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 04:14:54 CST)" (scheduled at 2025-07-08 03:14:54.845550+08:00)
+2025-07-08 03:14:54,858 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 03:14:54,859 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 03:14:54,860 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 03:44:54 CST)" (scheduled at 2025-07-08 03:14:54.845550+08:00)
+2025-07-08 03:14:54,861 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 03:14:54,862 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 03:14:54,863 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 03:14:54,863 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 03:14:54,995 - proxy_validator - INFO - 开始批量验证 3205 个代理
+2025-07-08 03:14:55,362 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 03:14:55,372 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 03:14:55,382 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 03:14:55,605 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 03:14:55,609 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 03:15:05,639 - proxy_validator - INFO - 批量验证完成，成功: 3126/3205
+2025-07-08 03:16:26,291 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 03:16:26,293 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 04:14:54 CST)" executed successfully
+2025-07-08 03:16:33,829 - scheduler - INFO - 验证现有代理任务完成，成功: 3126/3205
+2025-07-08 03:16:33,831 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 03:44:54 CST)" executed successfully
+2025-07-08 03:44:54,848 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 04:14:54 CST)" (scheduled at 2025-07-08 03:44:54.845550+08:00)
+2025-07-08 03:44:54,850 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 03:44:55,007 - proxy_validator - INFO - 开始批量验证 6622 个代理
+2025-07-08 03:45:06,641 - proxy_validator - INFO - 批量验证完成，成功: 3248/6622
+2025-07-08 03:46:56,487 - scheduler - INFO - 验证现有代理任务完成，成功: 3248/6622
+2025-07-08 03:46:56,491 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 04:14:54 CST)" executed successfully
+2025-07-08 04:14:54,873 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 05:14:54 CST)" (scheduled at 2025-07-08 04:14:54.845550+08:00)
+2025-07-08 04:14:54,874 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 04:14:54,874 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 04:14:54,874 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 06:14:54 CST)" (scheduled at 2025-07-08 04:14:54.845550+08:00)
+2025-07-08 04:14:54,874 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 04:14:54,875 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 04:44:54 CST)" (scheduled at 2025-07-08 04:14:54.845550+08:00)
+2025-07-08 04:14:54,875 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 04:14:54,875 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 04:14:54,876 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 04:14:54,876 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 04:14:54,919 - proxy_validator - INFO - 开始批量验证 3248 个代理
+2025-07-08 04:14:55,907 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 04:14:55,916 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 04:14:55,932 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 04:14:56,246 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 04:14:56,248 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 04:15:05,999 - proxy_validator - INFO - 批量验证完成，成功: 3130/3248
+2025-07-08 04:17:04,761 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 04:17:04,763 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 05:14:54 CST)" executed successfully
+2025-07-08 04:17:05,427 - scheduler - INFO - 验证现有代理任务完成，成功: 3130/3248
+2025-07-08 04:17:05,429 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 04:44:54 CST)" executed successfully
+2025-07-08 04:17:14,171 - scheduler - INFO - 更新代理地理位置任务完成，更新了 8602 个代理
+2025-07-08 04:17:14,177 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 06:14:54 CST)" executed successfully
+2025-07-08 04:44:54,846 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 05:14:54 CST)" (scheduled at 2025-07-08 04:44:54.845550+08:00)
+2025-07-08 04:44:54,847 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 04:44:54,920 - proxy_validator - INFO - 开始批量验证 6619 个代理
+2025-07-08 04:45:13,581 - proxy_validator - INFO - 批量验证完成，成功: 3236/6619
+2025-07-08 04:47:03,432 - scheduler - INFO - 验证现有代理任务完成，成功: 3236/6619
+2025-07-08 04:47:03,435 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 05:14:54 CST)" executed successfully
+2025-07-08 05:14:54,861 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 06:14:54 CST)" (scheduled at 2025-07-08 05:14:54.845550+08:00)
+2025-07-08 05:14:54,863 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 05:14:54,863 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 05:14:54,863 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 05:44:54 CST)" (scheduled at 2025-07-08 05:14:54.845550+08:00)
+2025-07-08 05:14:54,864 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 05:14:54,864 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 05:14:54,864 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 05:14:54,865 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 05:14:54,903 - proxy_validator - INFO - 开始批量验证 3236 个代理
+2025-07-08 05:14:55,751 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 05:14:55,763 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 05:14:55,780 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 05:14:55,957 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 05:14:55,987 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 05:15:06,114 - proxy_validator - INFO - 批量验证完成，成功: 3177/3236
+2025-07-08 05:16:31,509 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 05:16:31,512 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 06:14:54 CST)" executed successfully
+2025-07-08 05:16:37,037 - scheduler - INFO - 验证现有代理任务完成，成功: 3177/3236
+2025-07-08 05:16:37,040 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 05:44:54 CST)" executed successfully
+2025-07-08 05:44:54,857 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 06:14:54 CST)" (scheduled at 2025-07-08 05:44:54.845550+08:00)
+2025-07-08 05:44:54,857 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 05:44:54,920 - proxy_validator - INFO - 开始批量验证 6619 个代理
+2025-07-08 05:45:06,590 - proxy_validator - INFO - 批量验证完成，成功: 3231/6619
+2025-07-08 05:46:56,340 - scheduler - INFO - 验证现有代理任务完成，成功: 3231/6619
+2025-07-08 05:46:56,344 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 06:14:54 CST)" executed successfully
+2025-07-08 06:14:54,851 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 07:14:54 CST)" (scheduled at 2025-07-08 06:14:54.845550+08:00)
+2025-07-08 06:14:54,853 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 06:14:54,854 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 06:14:54,854 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 08:14:54 CST)" (scheduled at 2025-07-08 06:14:54.845550+08:00)
+2025-07-08 06:14:54,856 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 06:14:54,857 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 06:44:54 CST)" (scheduled at 2025-07-08 06:14:54.845550+08:00)
+2025-07-08 06:14:54,857 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 06:14:54,858 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 06:14:54,858 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 06:14:54,858 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 06:14:54,948 - proxy_validator - INFO - 开始批量验证 3231 个代理
+2025-07-08 06:14:55,934 - proxy_fetcher - INFO - 获取到 2901 个SOCKS5代理
+2025-07-08 06:14:55,944 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 06:14:55,955 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 06:14:56,269 - proxy_fetcher - INFO - 总共获取到 6442 个代理
+2025-07-08 06:14:56,272 - proxy_fetcher - INFO - 去重后剩余 6442 个代理
+2025-07-08 06:15:06,051 - proxy_validator - INFO - 批量验证完成，成功: 3142/3231
+2025-07-08 06:16:52,095 - scheduler - INFO - 获取新代理任务完成，保存了 6442 个新代理
+2025-07-08 06:16:52,097 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 07:14:54 CST)" executed successfully
+2025-07-08 06:16:58,126 - scheduler - INFO - 验证现有代理任务完成，成功: 3142/3231
+2025-07-08 06:16:58,129 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 06:44:54 CST)" executed successfully
+2025-07-08 06:17:07,659 - scheduler - INFO - 更新代理地理位置任务完成，更新了 8571 个代理
+2025-07-08 06:17:07,665 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 08:14:54 CST)" executed successfully
+2025-07-08 06:44:54,849 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 07:14:54 CST)" (scheduled at 2025-07-08 06:44:54.845550+08:00)
+2025-07-08 06:44:54,850 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 06:44:54,915 - proxy_validator - INFO - 开始批量验证 6617 个代理
+2025-07-08 06:45:07,047 - proxy_validator - INFO - 批量验证完成，成功: 3201/6617
+2025-07-08 06:46:56,413 - scheduler - INFO - 验证现有代理任务完成，成功: 3201/6617
+2025-07-08 06:46:56,417 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 07:14:54 CST)" executed successfully
+2025-07-08 07:14:54,856 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 08:14:54 CST)" (scheduled at 2025-07-08 07:14:54.845550+08:00)
+2025-07-08 07:14:54,857 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 07:14:54,857 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 07:14:54,860 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 07:44:54 CST)" (scheduled at 2025-07-08 07:14:54.845550+08:00)
+2025-07-08 07:14:54,861 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 07:14:54,861 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 07:14:54,862 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 07:14:54,862 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 07:14:54,911 - proxy_validator - INFO - 开始批量验证 3201 个代理
+2025-07-08 07:14:55,578 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 07:14:55,589 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 07:14:55,808 - proxy_fetcher - INFO - 获取到 2359 个SOCKS5代理
+2025-07-08 07:14:55,808 - proxy_fetcher - INFO - 总共获取到 5900 个代理
+2025-07-08 07:14:55,810 - proxy_fetcher - INFO - 去重后剩余 5900 个代理
+2025-07-08 07:15:05,922 - proxy_validator - INFO - 批量验证完成，成功: 3137/3201
+2025-07-08 07:16:20,106 - scheduler - INFO - 获取新代理任务完成，保存了 5900 个新代理
+2025-07-08 07:16:20,113 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 08:14:54 CST)" executed successfully
+2025-07-08 07:16:36,377 - scheduler - INFO - 验证现有代理任务完成，成功: 3137/3201
+2025-07-08 07:16:36,380 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 07:44:54 CST)" executed successfully
+2025-07-08 07:44:54,856 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 08:14:54 CST)" (scheduled at 2025-07-08 07:44:54.845550+08:00)
+2025-07-08 07:44:54,858 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 07:44:54,959 - proxy_validator - INFO - 开始批量验证 7731 个代理
+2025-07-08 07:45:07,456 - proxy_validator - INFO - 批量验证完成，成功: 4278/7731
+2025-07-08 07:47:15,965 - scheduler - INFO - 验证现有代理任务完成，成功: 4278/7731
+2025-07-08 07:47:15,969 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 08:14:54 CST)" executed successfully
+2025-07-08 08:14:54,851 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 09:14:54 CST)" (scheduled at 2025-07-08 08:14:54.845550+08:00)
+2025-07-08 08:14:54,852 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 08:14:54,852 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 08:14:54,852 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 10:14:54 CST)" (scheduled at 2025-07-08 08:14:54.845550+08:00)
+2025-07-08 08:14:54,853 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 08:14:54,853 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 08:44:54 CST)" (scheduled at 2025-07-08 08:14:54.845550+08:00)
+2025-07-08 08:14:54,853 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 08:14:54,854 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 08:14:54,854 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 08:14:54,855 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 08:14:54,920 - proxy_validator - INFO - 开始批量验证 4278 个代理
+2025-07-08 08:15:06,010 - proxy_validator - INFO - 批量验证完成，成功: 4134/4278
+2025-07-08 08:15:10,525 - proxy_fetcher - INFO - 获取到 2359 个SOCKS5代理
+2025-07-08 08:15:10,579 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 08:15:10,589 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 08:15:10,590 - proxy_fetcher - INFO - 总共获取到 5900 个代理
+2025-07-08 08:15:10,592 - proxy_fetcher - INFO - 去重后剩余 5900 个代理
+2025-07-08 08:16:51,698 - scheduler - INFO - 获取新代理任务完成，保存了 5900 个新代理
+2025-07-08 08:16:51,700 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 09:14:54 CST)" executed successfully
+2025-07-08 08:17:28,825 - scheduler - INFO - 验证现有代理任务完成，成功: 4134/4278
+2025-07-08 08:17:28,829 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 08:44:54 CST)" executed successfully
+2025-07-08 08:17:28,892 - scheduler - INFO - 更新代理地理位置任务完成，更新了 8667 个代理
+2025-07-08 08:17:28,898 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 10:14:54 CST)" executed successfully
+2025-07-08 08:44:54,856 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 09:14:54 CST)" (scheduled at 2025-07-08 08:44:54.845550+08:00)
+2025-07-08 08:44:54,857 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 08:44:54,947 - proxy_validator - INFO - 开始批量验证 7654 个代理
+2025-07-08 08:45:06,800 - proxy_validator - INFO - 批量验证完成，成功: 4245/7654
+2025-07-08 08:47:13,733 - scheduler - INFO - 验证现有代理任务完成，成功: 4245/7654
+2025-07-08 08:47:13,738 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 09:14:54 CST)" executed successfully
+2025-07-08 09:14:54,857 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 10:14:54 CST)" (scheduled at 2025-07-08 09:14:54.845550+08:00)
+2025-07-08 09:14:54,858 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 09:14:54,863 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 09:14:54,864 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 09:44:54 CST)" (scheduled at 2025-07-08 09:14:54.845550+08:00)
+2025-07-08 09:14:54,865 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 09:14:54,867 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 09:14:54,868 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 09:14:54,869 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 09:14:54,925 - proxy_validator - INFO - 开始批量验证 4245 个代理
+2025-07-08 09:15:06,093 - proxy_validator - INFO - 批量验证完成，成功: 4148/4245
+2025-07-08 09:15:10,970 - proxy_fetcher - INFO - 获取到 1559 个HTTP代理
+2025-07-08 09:15:10,982 - proxy_fetcher - INFO - 获取到 1982 个HTTPS代理
+2025-07-08 09:15:11,375 - proxy_fetcher - INFO - 获取到 2359 个SOCKS5代理
+2025-07-08 09:15:11,376 - proxy_fetcher - INFO - 总共获取到 5900 个代理
+2025-07-08 09:15:11,378 - proxy_fetcher - INFO - 去重后剩余 5900 个代理
+2025-07-08 09:16:50,635 - scheduler - INFO - 获取新代理任务完成，保存了 5900 个新代理
+2025-07-08 09:16:50,637 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 10:14:54 CST)" executed successfully
+2025-07-08 09:17:02,957 - scheduler - INFO - 验证现有代理任务完成，成功: 4148/4245
+2025-07-08 09:17:02,961 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 09:44:54 CST)" executed successfully
+2025-07-08 09:44:54,850 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 10:14:54 CST)" (scheduled at 2025-07-08 09:44:54.845550+08:00)
+2025-07-08 09:44:54,851 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 09:44:54,986 - proxy_validator - INFO - 开始批量验证 7639 个代理
+2025-07-08 09:45:00,123 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-07-08 09:45:00,406 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-07-08 09:45:00,408 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-07-08 09:45:17,495 - proxy_validator - INFO - 批量验证完成，成功: 1191/7639
+2025-07-08 09:47:48,381 - scheduler - INFO - 验证现有代理任务完成，成功: 1191/7639
+2025-07-08 09:47:48,393 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 10:14:54 CST)" executed successfully
+2025-07-08 10:14:54,854 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 11:14:54 CST)" (scheduled at 2025-07-08 10:14:54.845550+08:00)
+2025-07-08 10:14:54,855 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 10:14:54,856 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 10:14:54,857 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 12:14:54 CST)" (scheduled at 2025-07-08 10:14:54.845550+08:00)
+2025-07-08 10:14:54,857 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 10:14:54,858 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 10:44:54 CST)" (scheduled at 2025-07-08 10:14:54.845550+08:00)
+2025-07-08 10:14:54,858 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 10:14:54,859 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 10:14:54,860 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 10:14:54,860 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 10:14:54,957 - proxy_validator - INFO - 开始批量验证 1191 个代理
+2025-07-08 10:14:56,361 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\ProgramData\miniconda3\envs\proxy_pool\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-07-08 10:15:15,457 - proxy_validator - INFO - 批量验证完成，成功: 719/1191
+2025-07-08 10:15:15,911 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 10:15:15,911 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 10:15:15,911 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 10:15:15,912 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 10:15:15,912 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 10:15:15,912 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 10:15:15,912 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 10:15:15,912 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 10:15:15,912 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 10:15:15,913 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 11:14:54 CST)" executed successfully
+2025-07-08 10:15:55,257 - scheduler - INFO - 验证现有代理任务完成，成功: 719/1191
+2025-07-08 10:15:55,258 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 10:44:54 CST)" executed successfully
+2025-07-08 10:16:33,582 - scheduler - INFO - 更新代理地理位置任务完成，更新了 8841 个代理
+2025-07-08 10:16:33,588 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 12:14:54 CST)" executed successfully
+2025-07-08 10:44:54,845 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 11:14:54 CST)" (scheduled at 2025-07-08 10:44:54.845550+08:00)
+2025-07-08 10:44:54,846 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 10:44:54,867 - proxy_validator - INFO - 开始批量验证 719 个代理
+2025-07-08 10:45:12,689 - proxy_validator - INFO - 批量验证完成，成功: 679/719
+2025-07-08 10:45:27,339 - scheduler - INFO - 验证现有代理任务完成，成功: 679/719
+2025-07-08 10:45:27,340 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 11:14:54 CST)" executed successfully
+2025-07-08 11:14:54,846 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 12:14:54 CST)" (scheduled at 2025-07-08 11:14:54.845550+08:00)
+2025-07-08 11:14:54,847 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 11:14:54,847 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 11:14:54,847 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 11:44:54 CST)" (scheduled at 2025-07-08 11:14:54.845550+08:00)
+2025-07-08 11:14:54,848 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 11:14:54,848 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 11:14:54,849 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 11:14:54,849 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 11:14:54,867 - proxy_validator - INFO - 开始批量验证 679 个代理
+2025-07-08 11:15:15,469 - proxy_validator - INFO - 批量验证完成，成功: 664/679
+2025-07-08 11:15:16,026 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 11:15:16,027 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 11:15:16,027 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 11:15:16,028 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 11:15:16,028 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 11:15:16,029 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 11:15:16,029 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 11:15:16,030 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 11:15:16,031 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 11:15:16,031 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 12:14:54 CST)" executed successfully
+2025-07-08 11:15:29,614 - scheduler - INFO - 验证现有代理任务完成，成功: 664/679
+2025-07-08 11:15:29,615 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 11:44:54 CST)" executed successfully
+2025-07-08 11:44:54,855 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 12:14:54 CST)" (scheduled at 2025-07-08 11:44:54.845550+08:00)
+2025-07-08 11:44:54,856 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 11:44:54,868 - proxy_validator - INFO - 开始批量验证 664 个代理
+2025-07-08 11:45:15,479 - proxy_validator - INFO - 批量验证完成，成功: 631/664
+2025-07-08 11:45:27,448 - scheduler - INFO - 验证现有代理任务完成，成功: 631/664
+2025-07-08 11:45:27,449 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 12:14:54 CST)" executed successfully
+2025-07-08 12:14:54,858 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 13:14:54 CST)" (scheduled at 2025-07-08 12:14:54.845550+08:00)
+2025-07-08 12:14:54,859 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 12:14:54,859 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 12:14:54,859 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 14:14:54 CST)" (scheduled at 2025-07-08 12:14:54.845550+08:00)
+2025-07-08 12:14:54,860 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 12:14:54,860 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 12:44:54 CST)" (scheduled at 2025-07-08 12:14:54.845550+08:00)
+2025-07-08 12:14:54,861 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 12:14:54,862 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 12:14:54,862 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 12:14:54,863 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 12:14:54,891 - proxy_validator - INFO - 开始批量验证 631 个代理
+2025-07-08 12:15:15,456 - proxy_validator - INFO - 批量验证完成，成功: 453/631
+2025-07-08 12:15:15,912 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 12:15:15,912 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 12:15:15,913 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 12:15:15,913 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 12:15:15,913 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 12:15:15,913 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 12:15:15,914 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 12:15:15,914 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 12:15:15,914 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 12:15:15,914 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 13:14:54 CST)" executed successfully
+2025-07-08 12:15:39,996 - scheduler - INFO - 验证现有代理任务完成，成功: 453/631
+2025-07-08 12:15:39,998 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 12:44:54 CST)" executed successfully
+2025-07-08 12:16:12,236 - scheduler - INFO - 更新代理地理位置任务完成，更新了 6783 个代理
+2025-07-08 12:16:12,245 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 14:14:54 CST)" executed successfully
+2025-07-08 12:44:54,860 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 13:14:54 CST)" (scheduled at 2025-07-08 12:44:54.845550+08:00)
+2025-07-08 12:44:54,861 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 12:44:54,874 - proxy_validator - INFO - 开始批量验证 453 个代理
+2025-07-08 12:45:12,750 - proxy_validator - INFO - 批量验证完成，成功: 432/453
+2025-07-08 12:45:21,191 - scheduler - INFO - 验证现有代理任务完成，成功: 432/453
+2025-07-08 12:45:21,192 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 13:14:54 CST)" executed successfully
+2025-07-08 13:14:54,857 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 14:14:54 CST)" (scheduled at 2025-07-08 13:14:54.845550+08:00)
+2025-07-08 13:14:54,858 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 13:14:54,858 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 13:14:54,858 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 13:44:54 CST)" (scheduled at 2025-07-08 13:14:54.845550+08:00)
+2025-07-08 13:14:54,858 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 13:14:54,859 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 13:14:54,859 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 13:14:54,860 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 13:14:54,871 - proxy_validator - INFO - 开始批量验证 432 个代理
+2025-07-08 13:15:15,488 - proxy_validator - INFO - 批量验证完成，成功: 396/432
+2025-07-08 13:15:16,000 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 13:15:16,000 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 13:15:16,000 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 13:15:16,001 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 13:15:16,001 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 13:15:16,002 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 13:15:16,002 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 13:15:16,002 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 13:15:16,002 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 13:15:16,002 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 14:14:54 CST)" executed successfully
+2025-07-08 13:15:23,531 - scheduler - INFO - 验证现有代理任务完成，成功: 396/432
+2025-07-08 13:15:23,532 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 13:44:54 CST)" executed successfully
+2025-07-08 13:44:54,860 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 14:14:54 CST)" (scheduled at 2025-07-08 13:44:54.845550+08:00)
+2025-07-08 13:44:54,862 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 13:44:54,887 - proxy_validator - INFO - 开始批量验证 396 个代理
+2025-07-08 13:45:15,475 - proxy_validator - INFO - 批量验证完成，成功: 333/396
+2025-07-08 13:45:22,755 - scheduler - INFO - 验证现有代理任务完成，成功: 333/396
+2025-07-08 13:45:22,756 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 14:14:54 CST)" executed successfully
+2025-07-08 14:14:54,859 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 15:14:54 CST)" (scheduled at 2025-07-08 14:14:54.845550+08:00)
+2025-07-08 14:14:54,861 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 14:14:54,862 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 14:14:54,863 - apscheduler.executors.default - INFO - Running job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 16:14:54 CST)" (scheduled at 2025-07-08 14:14:54.845550+08:00)
+2025-07-08 14:14:54,863 - scheduler - INFO - 开始执行更新代理地理位置任务
+2025-07-08 14:14:54,864 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 14:44:54 CST)" (scheduled at 2025-07-08 14:14:54.845550+08:00)
+2025-07-08 14:14:54,864 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 14:14:54,864 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 14:14:54,865 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 14:14:54,868 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 14:14:54,878 - proxy_validator - INFO - 开始批量验证 333 个代理
+2025-07-08 14:15:15,456 - proxy_validator - INFO - 批量验证完成，成功: 319/333
+2025-07-08 14:15:15,962 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 14:15:15,962 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 14:15:15,963 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 14:15:15,963 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 14:15:15,963 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 14:15:15,963 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 14:15:15,964 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 14:15:15,964 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 14:15:15,964 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 14:15:15,964 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 15:14:54 CST)" executed successfully
+2025-07-08 14:15:25,067 - scheduler - INFO - 验证现有代理任务完成，成功: 319/333
+2025-07-08 14:15:25,068 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 14:44:54 CST)" executed successfully
+2025-07-08 14:15:58,036 - scheduler - INFO - 更新代理地理位置任务完成，更新了 6750 个代理
+2025-07-08 14:15:58,041 - apscheduler.executors.default - INFO - Job "更新代理地理位置 (trigger: interval[2:00:00], next run at: 2025-07-08 16:14:54 CST)" executed successfully
+2025-07-08 14:44:54,850 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 15:14:54 CST)" (scheduled at 2025-07-08 14:44:54.845550+08:00)
+2025-07-08 14:44:54,851 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 14:44:54,869 - proxy_validator - INFO - 开始批量验证 319 个代理
+2025-07-08 14:45:09,152 - proxy_validator - INFO - 批量验证完成，成功: 279/319
+2025-07-08 14:45:14,479 - scheduler - INFO - 验证现有代理任务完成，成功: 279/319
+2025-07-08 14:45:14,479 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 15:14:54 CST)" executed successfully
+2025-07-08 15:14:54,849 - apscheduler.executors.default - INFO - Running job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 16:14:54 CST)" (scheduled at 2025-07-08 15:14:54.845550+08:00)
+2025-07-08 15:14:54,850 - scheduler - INFO - 开始执行获取新代理任务
+2025-07-08 15:14:54,850 - proxy_fetcher - INFO - 开始获取所有代理...
+2025-07-08 15:14:54,855 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 15:44:54 CST)" (scheduled at 2025-07-08 15:14:54.845550+08:00)
+2025-07-08 15:14:54,855 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 15:14:54,856 - proxy_fetcher - INFO - 开始获取HTTP代理...
+2025-07-08 15:14:54,857 - proxy_fetcher - INFO - 开始获取HTTPS代理...
+2025-07-08 15:14:54,857 - proxy_fetcher - INFO - 开始获取SOCKS5代理...
+2025-07-08 15:14:54,868 - proxy_validator - INFO - 开始批量验证 279 个代理
+2025-07-08 15:15:15,473 - proxy_validator - INFO - 批量验证完成，成功: 224/279
+2025-07-08 15:15:15,939 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 15:15:15,941 - proxy_fetcher - INFO - 获取到 0 个HTTPS代理
+2025-07-08 15:15:15,942 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 15:15:15,942 - proxy_fetcher - INFO - 获取到 0 个SOCKS5代理
+2025-07-08 15:15:15,943 - proxy_fetcher - ERROR - 获取代理列表失败 https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt: Cannot connect to host cdn.jsdelivr.net:443 ssl:default [信号灯超时时间已到]
+2025-07-08 15:15:15,943 - proxy_fetcher - INFO - 获取到 0 个HTTP代理
+2025-07-08 15:15:15,943 - proxy_fetcher - INFO - 总共获取到 0 个代理
+2025-07-08 15:15:15,943 - proxy_fetcher - INFO - 去重后剩余 0 个代理
+2025-07-08 15:15:15,944 - scheduler - INFO - 获取新代理任务完成，保存了 0 个新代理
+2025-07-08 15:15:15,944 - apscheduler.executors.default - INFO - Job "获取新代理 (trigger: interval[1:00:00], next run at: 2025-07-08 16:14:54 CST)" executed successfully
+2025-07-08 15:15:20,670 - scheduler - INFO - 验证现有代理任务完成，成功: 224/279
+2025-07-08 15:15:20,672 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 15:44:54 CST)" executed successfully
+2025-07-08 15:44:54,850 - apscheduler.executors.default - INFO - Running job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 16:14:54 CST)" (scheduled at 2025-07-08 15:44:54.845550+08:00)
+2025-07-08 15:44:54,851 - scheduler - INFO - 开始执行验证现有代理任务
+2025-07-08 15:44:54,860 - proxy_validator - INFO - 开始批量验证 224 个代理
+2025-07-08 15:45:15,490 - proxy_validator - INFO - 批量验证完成，成功: 201/224
+2025-07-08 15:45:19,606 - scheduler - INFO - 验证现有代理任务完成，成功: 201/224
+2025-07-08 15:45:19,607 - apscheduler.executors.default - INFO - Job "验证现有代理 (trigger: interval[0:30:00], next run at: 2025-07-08 16:14:54 CST)" executed successfully
+2025-07-08 16:06:44,492 - api - INFO - 代理池服务关闭中...
+2025-07-08 16:06:44,492 - scheduler - INFO - 任务调度器已停止
+2025-07-08 16:06:44,492 - api - INFO - 代理池服务已关闭
+2025-07-08 16:06:44,492 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-08 16:06:44,493 - main - INFO - 代理池管理系统已关闭

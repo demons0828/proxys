@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+aiohttp==3.9.1
+aiosqlite==0.19.0
+apscheduler==3.10.4
+pydantic==2.5.0
+pydantic-settings==2.1.0
+requests==2.31.0
+python-multipart==0.0.6
+ipip-ipdb
+typing-extensions>=4.8.0 
